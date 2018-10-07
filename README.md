@@ -11,5 +11,5 @@ You can find the milestone deliverables in /libstreetmap/src
 Have fun!
 
 # EASYGL
-You can  nd the University of Toronto modi ed version of OPENGL within
+You can find the University of Toronto modi ed version of OPENGL within
 /libstreetmap/src/easygl
